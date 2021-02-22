@@ -5,7 +5,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=kkevadiya797&label=View+Counter) -->
 
-[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Vin-blue)](https://www.linkedin.com/in/kishan-kevadiya-889332188/) 
+[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Kishan-blue)](https://www.linkedin.com/in/kishan-kevadiya-889332188/) 
 
 
 
