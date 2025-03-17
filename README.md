@@ -11,19 +11,18 @@
 
 Thanks a lot! ❤️
 
-![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kkevadiya797&theme=nightowl&show_icons=true)
+<!--  ![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kkevadiya797&theme=nightowl&show_icons=true) -->
 
 <!--
 **kkevadiya797/kkevadiya797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on upgrading my AI/ML skills.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on ML related projects.
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
